@@ -1,0 +1,17 @@
+Dynamic programming is about using the memory ( in the case of recursion ) to use already solved data or problem 
+
+
+for example in fibonacci series for f(5) = f(n-1)+f(n-2) = f(4)+f(3). so here we already calculated 4th and 3rd positions so we dont again find f(4) instead we use memory to calculate it.
+During problem a particular step is solved then again solving it is no use. Thats when we use DP
+We need to master recursion to do DP
+
+
+recursion -> top down 
+     flow is (answer)->base case (which returns) ->answer 
+
+Bottom up -> tabulation 
+     flow is base case ->answer
+
+it can be done in two ways
+    1. Tabulation ( bottom up uproach )
+    2. Memorization (top down)
