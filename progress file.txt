@@ -2,3 +2,6 @@ This will be a reporsitory dedicated for the Leetcode progress.
 
 
 1. April 17 Dynamic Programming started
+
+
+2. leetcode patterns , BST implementations

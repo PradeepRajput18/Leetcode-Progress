@@ -15,3 +15,17 @@ Bottom up -> tabulation
 it can be done in two ways
     1. Tabulation ( bottom up uproach )
     2. Memorization (top down)
+
+
+Climbing Stairs :
+
+When ever there is a question that number of ways (best or count) it indicates apply recursion
+Master recursion master DP
+but there is a shortcut trick which is 
+
+
+Shortcut Trick : 
+1) Try to represent the problem in terms of index 
+2) Do all possible stuffs on that index according to the problem statement 
+3) Sum all the stuffs -> to find the count of all ways 
+   Min(of all stuffs ) -> to find the min of all stuff
