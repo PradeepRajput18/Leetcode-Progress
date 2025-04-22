@@ -5,3 +5,9 @@ This will be a reporsitory dedicated for the Leetcode progress.
 
 
 2. leetcode patterns , BST implementations
+
+3. Time Complexities ( needed to learn )
+
+4. SEquals (https://www.linkedin.com/posts/tannika-majumder-424a5040_you-can-clear-the-oa-you-can-pass-the-dsa-activity-7316427187723685890-0oPj?utm_medium=ios_app&rcm=ACoAACiSEN4BPZjOWPYrqKqbV4JWV9vduliWmlU&utm_source=social_share_send&utm_campaign=copy_link) 
+
+
